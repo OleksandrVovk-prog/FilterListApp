@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterListApp", "FilterListApp.csproj", "{1540612B-8314-4B74-AB19-2E30DCF953AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1540612B-8314-4B74-AB19-2E30DCF953AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1540612B-8314-4B74-AB19-2E30DCF953AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1540612B-8314-4B74-AB19-2E30DCF953AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1540612B-8314-4B74-AB19-2E30DCF953AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932AAC70-5748-4882-857B-71407259BA80}
+	EndGlobalSection
+EndGlobal
